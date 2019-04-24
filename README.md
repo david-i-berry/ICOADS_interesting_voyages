@@ -1,3 +1,3 @@
 # ICOADS_interesting_voyages
 
-Voyages and weather observations from ICOADS (icoad.noaa.gov) that are intersting
+Voyages and weather observations from ICOADS (http://icoads.noaa.gov) that are intersting
