@@ -1,4 +1,4 @@
-uid,date,lon,lat,id,ii,pt,dck,sid,at,sst,w,d,slp,supd
+uid,date,lon,lat,id,ii,pt,dck,sid,air_temp,sea_temp,wind_speed,wind_direction,sea_level_pressure,supd
 D01457,1914-08-09T12:00:00Z,-4.75,50.08,Endurance,10,5,246,167,15.6,,9.3,203,1020.6,
 D0146Q,1914-08-09T16:00:00Z,-5.12,49.79,Endurance,10,5,246,167,15.6,,12.3,214,1021.2,
 D01485,1914-08-09T20:00:00Z,-5.49,49.5,Endurance,10,5,246,167,16.7,,2.6,214,1023.1,
