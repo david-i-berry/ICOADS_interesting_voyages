@@ -1,0 +1,13 @@
+{
+   "type": "Feature",
+   "properties": {
+      "minimumTemperature": 259.25,
+      "maximumTemperature": 264.04998779296875,
+      "meanTemperature": 261.6499938964844
+   },
+   "geometry": {
+       "type": "Point",
+       "coordinates": [39.580000000000005,-69.00500000000001]
+    }
+   "time":"2021-09-30 00:00:00.0"
+}
